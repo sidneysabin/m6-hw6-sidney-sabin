@@ -11,7 +11,7 @@ Universal Styling
 }
 
 body {
-    background: url('../Assets/wallpaper3.png')
+    background-image: url("Assets/wallpaper3.png");
 }
 
 header, footer {
